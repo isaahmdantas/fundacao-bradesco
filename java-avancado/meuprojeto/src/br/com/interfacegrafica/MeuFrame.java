@@ -1,0 +1,25 @@
+package br.com.interfacegrafica;
+
+import javax.swing.JFrame;
+import javax.swing.JButton;
+
+@SuppressWarnings("serial")
+public class MeuFrame extends JFrame{
+	
+	public MeuFrame() {
+		super ("Meu Frame");
+		
+		JButton	botao = new JButton("Clique");
+	
+		getContentPane().add(botao);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setSize(300,300);
+		setVisible(true);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new MeuFrame();
+	}
+
+}

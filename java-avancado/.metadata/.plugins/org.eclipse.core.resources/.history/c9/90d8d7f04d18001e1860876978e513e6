@@ -1,0 +1,7 @@
+package meuprojeto;
+
+public class CachorroTeste {
+	public static void main(String[] args) {
+		
+	}
+}

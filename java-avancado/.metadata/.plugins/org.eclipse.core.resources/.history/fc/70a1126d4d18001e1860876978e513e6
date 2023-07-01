@@ -1,0 +1,7 @@
+package meuprojeto;
+
+public class cachorroteste {
+	public static void main(String[] args) {
+		
+	}
+}

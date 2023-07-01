@@ -1,0 +1,10 @@
+package br.com.heranca;
+
+public class AnimalTeste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

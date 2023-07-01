@@ -1,0 +1,12 @@
+package br.com.interfacegrafica;
+
+import javax.swing.JFrame;
+
+public class MeuFrame {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new MeuFrame();
+	}
+
+}
